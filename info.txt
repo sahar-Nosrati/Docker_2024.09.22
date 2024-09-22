@@ -1,0 +1,7 @@
+- Docker Compose ->  tool for defining and running multi-container applications
+- property -> more efficient development and deployment experience
+- structure -> single, comprehensible YAML configuration ->
+    - control entire application stack
+    - making it easy to manage services,networks and volumes
+  - single command -> create and start all the services from your configuration file
+
