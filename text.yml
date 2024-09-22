@@ -1,0 +1,16 @@
+# This is a command  -> sign of comment -> #
+
+team: Manchester united
+city: London
+year_found: 1878
+is_active: true
+history: >
+  Manchester United was formed in 1878 as Newton Heath LYR Football Club by the Carriage and Wagon department of the Lancashire and Yorkshire Railway (LYR) depot at Newton Heath.The team initially played games against other departments and railway companies, but on 20 November 1880, they competed in their first recorded match; wearing the colours of the railway company  green and gold  they were defeated 6-0 by Bolton Wanderers' reserve team
+famous players:
+  - Cristiano Ronaldo
+  - David Beckham
+  - Ryan Giggs
+  - Wayne Rooney
+management_staff:
+  general_manager: Matt Davies
+  president: Michael Burnley

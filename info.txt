@@ -1,3 +1,22 @@
+- YAML -> appropriate substitution for JSON and XML 
+- Base of YAML -> space and indentation 
+- .yaml of .yml
+- key:value
+- string -> inside single , double quotes or without quotes
+- boolean -> true or false, on or off, yes or no
+- several line -> key: >  -> then we put lines in the next line with one indentation 
+- array -> key:
+            - value1
+            - value2
+            - value3
+
+- object -> key:
+              key: value1
+              key: value2
+              key: value3
+
+
+
 - Docker Compose ->  tool for defining and running multi-container applications
 - property -> more efficient development and deployment experience
 - structure -> single, comprehensible YAML configuration ->
